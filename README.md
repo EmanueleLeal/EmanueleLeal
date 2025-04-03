@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil da Emanuele Leal 😁
+## Bem-vindo(a) ao meu perfil 😁
 
  <div>
    <a href="https://github.com/EmanueleLeal">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanueleLeal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleLeal&layout=compact&langs_count=6&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanueleLeal&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&bg_color=deg,1e61a4,00e4bc&title_color=FFFFFF&text_color=FFFFFF&hide_border=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleLeal&layout=compact&langs_count=6&theme=transparent"/>
 </div>
     
 <div style="display: inline_block"><br>
