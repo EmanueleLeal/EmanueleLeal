@@ -9,11 +9,13 @@ Bem-vindo(a) ao meu perfil 😁
   <a href="https://www.linkedin.com/in/emanueleleal-clcp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<img src="https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=6c09b952sq9f4uwvou8tlb4grshojrswiitaye15viw64oyy&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+
 
  <div>
    <a href="https://github.com/EmanueleLeal">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanueleLeal&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&bg_color=deg,1e61a4,00e4bc&title_color=FFFFFF&text_color=FFFFFF&hide_border=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleLeal&layout=compact&langs_count=6&theme=transparent"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleLeal&layout=compact&langs_count=6&theme=transparent"/>
 </div>
 
 Tecnologias
