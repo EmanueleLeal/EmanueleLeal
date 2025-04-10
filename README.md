@@ -1,11 +1,57 @@
-## Olá ! Bem-vindos ao meu perfil 😁
 ![Image](https://github.com/user-attachments/assets/13a067c3-88ed-465c-a1e5-cda86c689549)
 
+# Olá ! Bem-vindos ao meu perfil 😁
+
+### Sobre mim:
 `Programadora e Analista de dados`
+
+Sou Engenheira Mecânica com sólida atuação em Análise de Dados, atualmente expandindo minha jornada para a área de Programação Fullstack e Desenvolvimento Web. Com sete anos de experiência, desenvolvi habilidades técnicas, visão analítica estratégica e paixão por transformar dados em soluções inteligentes.
+
+》Dados | BI | Analytics | Machine Learning
+
+Experiência consolidada em Business Intelligence, ETL, Data Cleaning e Modelagem de Dados. Automação e padronização de processos com Python, SQL, R, DAX, linguagem M, Power BI, Power Query, Tableau e Excel Avançado.
+
+Criação de dashboards interativos, migração de processos manuais para automatizados, impulsionando a tomada de decisão orientada por dados. Aplicação de modelos preditivos e técnicas de Machine Learning para gerar insights e otimizar resultados.
+
+》Programação Fullstack | Desenvolvimento Web | Front-end & Back-end
+
+Em transição ativa para a área de desenvolvimento fullstack, com foco em HTML, CSS, JavaScript, React.js e Python no back-end.
+
+Desenvolvimento de projetos próprios para portfólio, unindo análise de dados e programação.
+
+Interesse especial em automação de processos, ciência de dados aplicada, desenvolvimento de sistemas web, inteligência artificial e aplicações inteligentes.
+
+》Experiência Técnica e Projetos
+
+Mais de 5 anos no setor automotivo, com foco em validação de protótipos (veículos elétricos inclusive), desenvolvimento de projetos e testes de desempenho. E 1 anos de experiência no pós venda e reformadora de veículos sinistrados.
+
+Liderança de projetos de melhoria contínua com foco em KPIs, análise crítica de processos e gestão da informação. Destaque na melhoria de 89% na entrega de resultados por meio de dados.
+
+》Formação e Idiomas
+
+Engenheira Mecânica com especialização em Gestão de Projetos.
+
+Cursando Processos Gerenciais e trilha de aprendizado em Ciência de Dados e Programação Fullstack.
+
+Inglês avançado com foco em certificações internacionais. Estudando Alemão, Francês, Italiano e Espanhol.
+
+》Soft Skills
+
+Rápida aprendizagem, raciocínio lógico, proatividade, organização e espírito de liderança.
+
+Experiência com gestão de equipes, trabalho colaborativo e resolução de problemas complexos. Perfil autodidata, criativo e movido por desafios e inovação.
+
+》Destaques Acadêmicos e Iniciativas
+
+Presidente de Centro Acadêmico e destaque como projetista, programadora e analista de dados experimentais em projetos de Iniciação Científica e de extensão.
+
+### Contatos:
 
 <div>  
   <a href = "mailto:emanueleleal.clcp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/emanueleleal-clcp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/emanueleleal-clcp" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/emanuele_clcp?igsh=eDh2eW1odmkwMXEz" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
 </div>
 
 ## Ferramentas e tecnologias
@@ -16,7 +62,7 @@
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleLeal&layout=compact&langs_count=6&theme=transparent"/>
 </div>
 
-Tecnologias
+### Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
