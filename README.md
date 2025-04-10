@@ -1,16 +1,14 @@
-## Emanuele Leal
+## Olá ! Bem-vindos ao meu perfil 😁
+![Image](https://github.com/user-attachments/assets/13a067c3-88ed-465c-a1e5-cda86c689549)
 
 `Programadora e Analista de dados`
-
-Bem-vindo(a) ao meu perfil 😁
 
 <div>  
   <a href = "mailto:emanueleleal.clcp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emanueleleal-clcp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<img src="https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=6c09b952sq9f4uwvou8tlb4grshojrswiitaye15viw64oyy&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
-
+## Ferramentas e tecnologias
 
  <div>
    <a href="https://github.com/EmanueleLeal">
