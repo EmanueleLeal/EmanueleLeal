@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/13a067c3-88ed-465c-a1e5-cda86c689549)
+![Image](https://github.com/user-attachments/assets/53021e07-5d41-41a5-ad50-692c2f189259)
 
 # Olá ! Bem-vindos ao meu perfil 😁
 
